@@ -1,0 +1,5 @@
+/*
+
+This module builds a list of products for a retail environment.
+
+*/
